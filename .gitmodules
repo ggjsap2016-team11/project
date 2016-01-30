@@ -1,0 +1,3 @@
+[submodule "DxLib_VC"]
+	path = DxLib_VC
+	url = git@github.com:hotwatermorning/DxLib_VC.git
